@@ -1,6 +1,7 @@
-# Bank Customer Churn Prediction
-# Discription:
-This Django web application predicts whether a bank customer is likely to churn (i.e., close their account) based on machine learning (ML). Users can input customer information such as country, gender, age, and credit score, and the model will predict the likelihood of churn. The submit button changes color to provide a visual cue based on the prediction: green for low churn probability and red for high churn probability. Additionally, the churn prediction text itself is displayed in red or green depending on the model's output.
+# Bank Customer Churn Prediction 
+# Discription: 
+This Django web application predicts whether a bank customer is likely to churn (i.e., close their account) based on machine learning (ML). Users can input customer information such as country, gender, age, and credit score, and the model will predict the likelihood of churn. The submit button changes color to provide a visual cue based on the prediction: green for low churn probability and red for high churn probability. Additionally, the churn prediction text itself is displayed in red or green depending on the model's output. 
+### Note: Before Run the Project Internet should be connected .
 
 # Functionality:
 User interface for entering customer data
